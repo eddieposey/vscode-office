@@ -1,6 +1,12 @@
-# Office Viewer
+# vscode office (fork)
 
 English | [简体中文](README-CN.md) | [繁體中文](README-TW.md)
+
+> **This is a fork** of [cweijan/vscode-office](https://github.com/cweijan/vscode-office), maintained by [eddieposey](https://github.com/eddieposey) and published to the [Open VSX Registry](https://open-vsx.org/) as `eddieposey.vscode-office-fork`. All original functionality is preserved — see [Credits](#credits) for the upstream authors.
+>
+> ### What this fork changes
+>
+> - **Markdown opens in preview by default.** When you open a `.md` / `.markdown` file, the editor now starts in the rendered read-only preview with the toolbar's preview (eye) icon already highlighted, instead of starting in edit mode. Click the eye icon to switch into WYSIWYG editing. Previously you had to toggle preview manually every time.
 
 ## Introduction
 

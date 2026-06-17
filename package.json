@@ -32,13 +32,13 @@
 		"Other"
 	],
 	"bugs": {
-		"url": "https://github.com/cweijan/vscode-office/issues",
-		"email": "cweijan@163.com"
+		"url": "https://github.com/eddieposey/vscode-office/issues",
+		"email": "john.wilford.jacob@gmail.com"
 	},
-	"homepage": "https://github.com/cweijan/vscode-office/blob/master/README.md",
+	"homepage": "https://github.com/eddieposey/vscode-office/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cweijan/vscode-office.git"
+		"url": "https://github.com/eddieposey/vscode-office.git"
 	},
 	"activationEvents": [
 		"onStartupFinished"
