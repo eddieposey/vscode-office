@@ -1,9 +1,10 @@
 {
-	"name": "vscode-office",
-	"displayName": "Office Viewer",
+	"name": "vscode-office-fork",
+	"displayName": "vscode office (fork)",
 	"description": "View word, excel, powerpoint files and using WYSIWYG editor for markdown.",
-	"version": "4.0.2",
-	"publisher": "cweijan",
+	"version": "4.0.3",
+	"publisher": "eddieposey",
+	"author": "eddie posey",
 	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.64.0"

@@ -83,6 +83,13 @@ handler.on("open", async (md) => {
       })
       openLink()
       onToolbarClick(editor)
+      // open in the rich read-only preview by default, with the eye icon highlighted
+      setTimeout(() => {
+        const previewBtn = document.querySelector('.vditor-toolbar button[data-type="preview"]')
+        if (previewBtn && !previewBtn.classList.contains('vditor-menu--current')) {
+          previewBtn.click()
+        }
+      }, 0)
     }
   })
   autoSymbol(handler, editor, config);
